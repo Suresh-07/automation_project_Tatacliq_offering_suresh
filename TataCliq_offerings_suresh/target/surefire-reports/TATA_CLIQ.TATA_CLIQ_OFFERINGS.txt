@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: TATA_CLIQ.TATA_CLIQ_OFFERINGS
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 443.97 s <<< FAILURE! - in TATA_CLIQ.TATA_CLIQ_OFFERINGS
+TATA_CLIQ.TATA_CLIQ_OFFERINGS.TC6  Time elapsed: 23.503 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <a class="DesktopFooter__categoryLink" href="/watches-men/c-msh1500">...</a> is not clickable at point (785, 532). Other element would receive the click: <div class="Feed__center">...</div>
+  (Session info: MicrosoftEdge=103.0.1264.62)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HEPN219V', ip: '192.168.43.223', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 103.0.1264.62, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:54636}, msedge: {msedgedriverVersion: 103.0.1264.77 (2b250f2585e4..., userDataDir: C:\Users\HP\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27d63c966a7a9d2aed37ed00f48482eb
+	at TATA_CLIQ.TATA_CLIQ_OFFERINGS.TC6(TATA_CLIQ_OFFERINGS.java:163)
+
+TATA_CLIQ.TATA_CLIQ_OFFERINGS.TC9  Time elapsed: 16.977 s  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: MicrosoftEdge=103.0.1264.62)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-HEPN219V', ip: '192.168.43.223', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 103.0.1264.62, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:55529}, msedge: {msedgedriverVersion: 103.0.1264.77 (2b250f2585e4..., userDataDir: C:\Users\HP\AppData\Local\T...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 407f5b1d542918459ee39578e98eb40b
+	at TATA_CLIQ.TATA_CLIQ_OFFERINGS.TC9(TATA_CLIQ_OFFERINGS.java:246)
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T12:39:14Z" name="Suite" finished-at="2022-11-29T12:43:23Z" duration-ms="249177">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T12:39:14Z" name="Test" finished-at="2022-11-29T12:43:23Z" duration-ms="249177">
+      <class name="TATA_CLIQ.Tatacliq">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:09:14Z" name="beforetest" finished-at="2022-11-29T18:09:50Z" duration-ms="35505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="TC1()[pri:0, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:09:50Z" name="TC1" finished-at="2022-11-29T18:10:16Z" duration-ms="25829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC2()[pri:1, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:10:16Z" name="TC2" finished-at="2022-11-29T18:10:26Z" duration-ms="10623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:2, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:10:26Z" name="TC3" finished-at="2022-11-29T18:10:37Z" duration-ms="10222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method signature="TC4()[pri:3, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:10:37Z" name="TC4" finished-at="2022-11-29T18:10:46Z" duration-ms="9642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method signature="TC5()[pri:4, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:10:46Z" name="TC5" finished-at="2022-11-29T18:11:02Z" duration-ms="16301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method signature="TC6()[pri:5, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:11:02Z" name="TC6" finished-at="2022-11-29T18:11:25Z" duration-ms="22655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+        <test-method signature="TC7()[pri:6, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:11:25Z" name="TC7" finished-at="2022-11-29T18:12:27Z" duration-ms="61695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+        <test-method signature="TC8()[pri:7, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:12:27Z" name="TC8" finished-at="2022-11-29T18:12:55Z" duration-ms="28395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC8 -->
+        <test-method signature="TC9()[pri:8, instance:TATA_CLIQ.Tatacliq@3f91b517]" started-at="2022-11-29T18:12:55Z" name="TC9" finished-at="2022-11-29T18:13:23Z" duration-ms="28240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC9 -->
+      </class> <!-- TATA_CLIQ.Tatacliq -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
